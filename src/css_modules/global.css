@@ -1,0 +1,22 @@
+:root{
+    --dark-mode-elements: hsl(209, 23%, 22%);
+    --dark-mode-background: hsl(207, 26%, 17%);
+    --light-mode-text: hsl(200, 15%, 8%);
+    --light-mode-inputs: hsl(0, 0%, 52%);
+    --light-mode-background: hsl(0, 0%, 98%);
+    --dm-text-lm-elements: hsl(0, 0%, 100%);
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    box-shadow: 2px 4px 8px rgba(20, 20, 20, 0.1);
+}
+
+.countries{
+    background-color: var(--light-mode-background);
+    margin-top: 1vmin;
+    padding: 7vmin 0;
+}
