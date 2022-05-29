@@ -20,3 +20,7 @@ header{
     margin-top: 1vmin;
     padding: 7vmin 0;
 }
+
+a{
+    text-decoration: none;
+}
